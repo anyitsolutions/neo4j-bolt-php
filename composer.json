@@ -1,5 +1,5 @@
 {
-    "name": "graphaware/neo4j-bolt",
+    "name": "anyitsolutions/neo4j-bolt",
     "description": "Neo4j Bolt Binary Protocol PHP Driver",
     "type": "library",
     "license": "MIT",
@@ -13,7 +13,7 @@
         "php": ">= 5.6",
         "ext-bcmath": "*",
         "ext-mbstring": "*",
-        "symfony/event-dispatcher": "^2.7|^3.0|^4.0",
+        "symfony/event-dispatcher": "^4.0 || ^5.0",
         "graphaware/neo4j-common": "^3.4",
         "myclabs/php-enum": "^1.4"
     },
